@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Str1ien.github.io/sitemap.xml
+Sitemap: https://str1ien.github.io/sitemap.xml
