@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Str1ien.github.io/sitemap.xml
