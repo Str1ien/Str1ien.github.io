@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://reversea.me'>Affiliations</a>.
+subtitle: <a href='https://reversea.me'>Affiliations</a>
 
 profile:
   align: right
