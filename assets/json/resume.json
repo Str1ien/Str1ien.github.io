@@ -36,7 +36,7 @@
   "certificates": [
     {
       "name": "C1 Advanced",
-      "date": "2021-07-00",
+      "date": "2021-07",
       "issuer": "Cambridge University English",
       "url": "https://www.cambridgeenglish.org/",
       "icon": "fa-solid fa-tag"
@@ -49,7 +49,7 @@
       "icon": ""
     },
     {
-      "language": "",
+      "language": "English",
       "fluency": "Full professional proficiency",
       "icon": ""
     }
