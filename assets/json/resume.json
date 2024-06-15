@@ -17,8 +17,8 @@
       "startDate": "2021-09-00",
       "endDate": "2025-00-00",
       "courses": [
-        "Several honors throughout the degree", 
-        "Class representative during the 3rd course of the degree", 
+        "Several honors throughout the degree",
+        "Class representative during the 3rd course of the degree",
         "Mentor for incoming students during the same year"
       ]
     }
@@ -30,7 +30,7 @@
       "url": "https://webdiis.unizar.es/DISCO",
       "startDate": "2023-07-01",
       "endDate": "present",
-      "summary": "Development of an executed malware dataset and its analysis. Use of different methods such as (D)CNNs, NLP and others.",
+      "summary": "Development of an executed malware dataset and its analysis. Use of different methods such as (D)CNNs, NLP and others."
     }
   ],
   "certificates": [
@@ -53,5 +53,5 @@
       "fluency": "Full professional proficiency",
       "icon": ""
     }
-  ],
+  ]
 }
