@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: work in progress
 nav: true
 nav_order: 2
 ---
