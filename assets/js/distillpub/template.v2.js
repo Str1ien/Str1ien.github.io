@@ -436,7 +436,7 @@
       return class extends superclass {
         static get is() {
           return name;
-        }
+      }
 
         constructor() {
           super();
@@ -1640,7 +1640,7 @@ d-appendix > distill-appendix {
             : {};
 
   function createCommonjsModule(fn, module) {
-    return (module = { exports: {} }), fn(module, module.exports), module.exports;
+    return ((module = { exports: {} }), fn(module, module.exports), module.exports);
   }
 
   var bibtexParse = createCommonjsModule(function (module, exports) {
